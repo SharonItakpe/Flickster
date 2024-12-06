@@ -29,8 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://github.com/SharonItakpe/Flickster/blob/cb5c12c4c3035844621240cb19012d8a22faab9c/Kapture%202024-12-05%20at%2023.50.17.mp4
-https://submissions.us-east-1.linodeobjects.com/and102/C5Nig6K1.gif
+https://github.com/SharonItakpe/Flickster/blob/744dce7657abb930eb079ebd965fcf3470916a75/Kapture%202024-12-06%20at%2012.17.14.mp4
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
