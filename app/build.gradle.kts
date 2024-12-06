@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.flickster"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.flickster"
@@ -65,4 +65,3 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 }
-

@@ -44,4 +44,3 @@ class DetailActivity : AppCompatActivity() {
             .into(posterImageView)
     }
 }
-

@@ -70,4 +70,3 @@
         app:layout_constraintStart_toEndOf="@id/ratingTextView" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-
